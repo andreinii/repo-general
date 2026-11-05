@@ -1,0 +1,16 @@
+C:\Users\crist\Desktop\putavida\formsprimeraclase\formsprimeraclase\bin\Debug\net10.0-windows\formsprimeraclase.exe
+C:\Users\crist\Desktop\putavida\formsprimeraclase\formsprimeraclase\bin\Debug\net10.0-windows\formsprimeraclase.deps.json
+C:\Users\crist\Desktop\putavida\formsprimeraclase\formsprimeraclase\bin\Debug\net10.0-windows\formsprimeraclase.runtimeconfig.json
+C:\Users\crist\Desktop\putavida\formsprimeraclase\formsprimeraclase\bin\Debug\net10.0-windows\formsprimeraclase.dll
+C:\Users\crist\Desktop\putavida\formsprimeraclase\formsprimeraclase\bin\Debug\net10.0-windows\formsprimeraclase.pdb
+C:\Users\crist\Desktop\putavida\formsprimeraclase\formsprimeraclase\obj\Debug\net10.0-windows\formsprimeraclase.Form1.resources
+C:\Users\crist\Desktop\putavida\formsprimeraclase\formsprimeraclase\obj\Debug\net10.0-windows\formsprimeraclase.csproj.GenerateResource.cache
+C:\Users\crist\Desktop\putavida\formsprimeraclase\formsprimeraclase\obj\Debug\net10.0-windows\formsprimeraclase.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\crist\Desktop\putavida\formsprimeraclase\formsprimeraclase\obj\Debug\net10.0-windows\formsprimeraclase.AssemblyInfoInputs.cache
+C:\Users\crist\Desktop\putavida\formsprimeraclase\formsprimeraclase\obj\Debug\net10.0-windows\formsprimeraclase.AssemblyInfo.cs
+C:\Users\crist\Desktop\putavida\formsprimeraclase\formsprimeraclase\obj\Debug\net10.0-windows\formsprimeraclase.csproj.CoreCompileInputs.cache
+C:\Users\crist\Desktop\putavida\formsprimeraclase\formsprimeraclase\obj\Debug\net10.0-windows\formsprimeraclase.dll
+C:\Users\crist\Desktop\putavida\formsprimeraclase\formsprimeraclase\obj\Debug\net10.0-windows\refint\formsprimeraclase.dll
+C:\Users\crist\Desktop\putavida\formsprimeraclase\formsprimeraclase\obj\Debug\net10.0-windows\formsprimeraclase.pdb
+C:\Users\crist\Desktop\putavida\formsprimeraclase\formsprimeraclase\obj\Debug\net10.0-windows\formsprimeraclase.genruntimeconfig.cache
+C:\Users\crist\Desktop\putavida\formsprimeraclase\formsprimeraclase\obj\Debug\net10.0-windows\ref\formsprimeraclase.dll
